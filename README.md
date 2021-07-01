@@ -5,5 +5,5 @@
 - 💬 Ask me about any tech query
 - 📫 How to reach me: hsaif1611@gmail.com
 
-- ⚡ Fun fact: that i dont have any fun fact
+- ⚡ Fun fact: that being a developer I am not a fan of coffee
 
