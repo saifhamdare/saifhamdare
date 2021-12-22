@@ -1,4 +1,5 @@
-### Hi there, welcome to my profile 👋
+<h1 align="center">Hi 👋, I'm Saif hamdare</h1>
+### welcome to my profile
 
 - 🔭 I’m currently working on Js
 - 🌱 I’m currently learning React.Js
@@ -7,7 +8,7 @@
 
 - ⚡ Fun fact: that being a developer I am not a fan of coffee
 
-<h1 align="center">Hi 👋, I'm Saif hamdare</h1>
+
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 
