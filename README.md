@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saif-hamdare-245304136/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saad shaikh" height="30" width="40" color=#fff /></a>
+<a href="https://www.linkedin.com/in/saif-hamdare-245304136/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saif hamdare" height="30" width="40" style"color=#fff;" /></a>
 <a href="https://m.facebook.com/profile.php?ref=bookmarks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sk saad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saadshaikh.09/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saadshaikh.09" height="30" width="40" /></a>
 <a href="/https://codingwithsaad.blogspot.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://codingwithsaad.blogspot.com/" height="30" width="40" /></a>
