@@ -1,7 +1,7 @@
 ### Hi there, welcome to my profile 👋
 
 - 🔭 I’m currently working on Js
-- 🌱 I’m currently learning Js
+- 🌱 I’m currently learning React.Js
 - 💬 Ask me about any tech query
 - 📫 How to reach me: hsaif1611@gmail.com
 
