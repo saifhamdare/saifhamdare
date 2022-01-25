@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saif hamdare</h1>
 ### welcome to my profile
 
-- 🔭 I’m currently working on Js
-- 🌱 I’m currently learning React.Js
+- 🔭 I’m currently working on React.Js
+- 🌱 I’m currently learning Redux and Ant Design
 - 💬 Ask me about any tech query
 - 📫 How to reach me: hsaif1611@gmail.com
 
