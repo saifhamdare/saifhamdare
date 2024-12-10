@@ -17,9 +17,9 @@ Welcome to my profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saif-hamdare-245304136/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saif hamdare" height="30" width="40"  /></a>
-<a href="https://www.facebook.com/saif.hamdare.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Saif Hamdare" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_saiff___/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Saif Hamdare" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saif-hamdare/" style="background:'#fff';padding:'5px'"  target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saif hamdare" height="30" width="40"  /></a>
+<a href="https://www.facebook.com/saif.hamdare.7" style="background:'#fff';padding:'5px'"  target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Saif Hamdare" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_saiff___/" style="background:'#fff';padding:'5px'" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Saif Hamdare" height="30" width="40" /></a>
 
 </p><hr>
 
