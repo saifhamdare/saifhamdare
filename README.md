@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saif hamdare</h1>
-### welcome to my profile
+Welcome to my profile
 
-- 🔭 I’m currently working on React.Js
+- 🔭 I’m currently working as a frontend Developer
 - 🌱 I’m currently learning Redux and Ant Design
 - 💬 Ask me about any tech query
-- 📫 How to reach me: hsaif1611@gmail.com
+- 📫 How to reach me: sde.saifhamdare@gmail.com
 
-- ⚡ Fun fact: that being a developer I am not a fan of coffee
+- ⚡ Fun fact: being a developer I am not a fan of coffee
 
 
 <h3 align="center">A passionate frontend developer from India.</h3>
@@ -37,14 +37,14 @@
 
 </div>
 
-<!-- 
+
 <h3>Backend Technologies:</h3>
 <div style='display: flex'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-</div> -->
+</div> 
 
 <h3>Tools:</h3>
 <div style='display: flex'>
