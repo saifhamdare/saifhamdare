@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saif hamdare</h1>
 Welcome to my profile
 
-- 🔭 I’m currently working as a frontend Developer
-- 🌱 I’m currently learning Redux and Ant Design
-- 💬 Ask me about any tech query
+- 🔭 Frontend Developer at Riggle
+- 🌱 I’m Curious to learn TypeScript and different State Management tools
+- 💬 Loves to Talk about Techs, Theories and movies. 
 - 📫 How to reach me: sde.saifhamdare@gmail.com
 
 - ⚡ Fun fact: being a developer I am not a fan of coffee
 
 
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A Frontend Developer from India.</h3>
 
 
 
